@@ -1,13 +1,13 @@
 package com.Luma_IPT_Nov.pom;
 
 public class HomePage {
-	
-	public void method1() {
-		
+
+	public HomePage() {
+
 	}
 
-  public HomePage(){
-    
-  }
+	public void method1() {
+
+	}
 
 }
